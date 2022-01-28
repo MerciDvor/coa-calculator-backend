@@ -8,10 +8,10 @@ app = FastAPI()
 
 
 origins = [
-    "https://coa-calculator.herokuapp.com",
-    # "https://coa-calculator.herokuapp.com/smithing",
-    # "https://coa-calculator.herokuapp.com/crafting",
-    # "https://coa-calculator.herokuapp.com/cooking",
+    "https://spiritsofwar.herokuapp.com",
+    # "https://spiritsofwar.herokuapp.com/smithing",
+    # "https://spiritsofwar.herokuapp.com/crafting",
+    # "https://spiritsofwar.herokuapp.com/cooking",
     "http://localhost:3000",
     "localhost:3000"
 ]
